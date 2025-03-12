@@ -11,7 +11,7 @@ import java.util.Scanner;
  * 
  * Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
  */
-public class ÜçgeninAlanınıHesaplama {
+public class TheAreaOfTriangle {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

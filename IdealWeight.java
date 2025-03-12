@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class İdealKilo {
+public class IdealWeight {
     public static void main(String[] args) {
 
         // ideal kilo hesaplama

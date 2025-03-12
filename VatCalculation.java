@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class KdvHesaplama {
+class VatCalculation {
     public static void main(String[] args) {
         double fiyat, kdvOran = 0.18;
 
